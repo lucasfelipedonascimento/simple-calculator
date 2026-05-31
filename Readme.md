@@ -8,7 +8,7 @@
 
 ## Video Presentation
 
-[Video Presentation](https://www.youtube.com/watch?v=lPMeRkUi-yY&feature=youtu.be)
+[Video Presentation](https://youtu.be/lPMeRkUi-yY?si=4uJW_OD8ygZPU7JK)
 
 # Step by Step
 
