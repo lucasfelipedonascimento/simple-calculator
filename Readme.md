@@ -1,10 +1,14 @@
-# Project Description
+# Simple Calculator
 
 - The project is created as a final project for the Python CS50 course.
 - This project is a simple calculator that can perform basic arithmetic operations.
 - The user can select the operation they want to perform and input the numbers.
 - The result of the operation is then displayed on the screen.
 - The project is implemented in Python and uses the cs50 library.
+
+## Video Presentation
+
+[Video Presentation](https://www.youtube.com/watch?v=lPMeRkUi-yY&feature=youtu.be)
 
 # Step by Step
 
